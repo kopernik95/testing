@@ -1,1 +1,2 @@
 learning how to work with branches.
+A little conflict will be here.
