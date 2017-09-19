@@ -1,2 +1,3 @@
 learning how to work with branches.
-I'm going to break this.
+A little conflict will not be here.
+I'm not going to break this.
